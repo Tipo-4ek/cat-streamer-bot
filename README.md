@@ -5,7 +5,7 @@
 </p>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Tipo-4ek/cat-streamer-bot/main/static/screamer.jpg" align="center" style="width: 100%" />
+<img src="https://github.com/Tipo-4ek/cat-streamer-bot/blob/master/static/screamer.jpg?raw=true" align="center" style="width: 100%" />
 </div>
 
 
