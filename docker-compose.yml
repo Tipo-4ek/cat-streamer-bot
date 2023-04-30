@@ -1,0 +1,9 @@
+version: "3"
+services:
+  cat_stream_bot:
+    container_name: cat_stream_bot
+    command: python3 bot/bot.py
+    restart: always
+    build:
+      context: "."
+      dockerfile: Dockerfile
