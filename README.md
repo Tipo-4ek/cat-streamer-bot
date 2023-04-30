@@ -4,6 +4,11 @@
 <a href="https://t.me/cat_stream_bot" alt="Run Telegram Bot shield"><img src="https://img.shields.io/badge/RUN-Telegram%20Bot-blue" /></a>
 </p>
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/Tipo-4ek/cat-streamer-bot/main/static/screamer.jpg" align="center" style="width: 100%" />
+</div>
+
+
 ## Features
 
 - Bot give 3 pictures per `/cat` command
